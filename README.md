@@ -17,3 +17,4 @@ It connects and poll data from a Ninebot Scooter using BLE.
    `<config_dir>/custom_components`.
 
 2. Restart home assistant.
+test guttmann
